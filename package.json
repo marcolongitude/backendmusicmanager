@@ -1,5 +1,5 @@
 {
-  "name": "backendMusicManager",
+  "name": "backendmusicmanager",
   "version": "1.0.0",
   "main": "./build/start/server.js",
   "license": "MIT",
